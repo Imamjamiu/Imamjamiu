@@ -1,56 +1,82 @@
-# Hi, I'm Imam Jamiu 👋
+# Hi, I'm Muhammad Jamiu (Imamjamiu) 👋
 
-### AI/ML Engineer in Development | Machine Learning • NLP • LLM Applications
+### AI/ML Engineer | LLMs | RAG | Intelligent Systems | AI Research
 
-I'm a Computer Science graduate passionate about building practical Artificial Intelligence solutions to real-world problems. My interests include Machine Learning, Natural Language Processing, Large Language Models, and intelligent systems.
+I'm a Computer Science graduate focused on building intelligent systems that solve practical problems. My interests include machine learning, natural language processing, large language models, retrieval-augmented generation, and reliable AI applications.
 
-I enjoy learning by building, experimenting with models, and turning research ideas into working applications.
+I enjoy learning through engineering: designing systems, experimenting with models, evaluating their performance, and turning ideas into working applications.
 
 ---
 
-### 🔬 Areas of Interest
+## 🔬 Areas of Interest
 
-- Machine Learning & Deep Learning
-- Natural Language Processing (NLP)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI-powered applications
+- Artificial Intelligence and Machine Learning
+- Large Language Models (LLMs) and NLP
+- Retrieval-Augmented Generation (RAG) and document intelligence
+- AI agents and intelligent decision-support systems
+- Trustworthy, evidence-grounded, and responsible AI
+- Applied AI in healthcare, education, and finance
 
-### 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-- **Languages:** Python
-- **Machine Learning:** Scikit-learn
-- **Data Processing:** Pandas, NumPy
+- **Programming:** Python
+- **Machine Learning:** Scikit-learn, XGBoost
 - **Deep Learning & NLP:** PyTorch, Hugging Face Transformers
-- **Applications:** Streamlit
-- **Tools:** Git, GitHub, Jupyter Notebook
+- **LLM Applications:** Embeddings, semantic search, hybrid retrieval, RAG
+- **Data:** Pandas, NumPy
+- **App Development:** Streamlit
+- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
 
-### 🚀 Selected Projects
+## 🚀 Featured Projects
 
-**1. Hybrid Mental Health Prediction System**
+### 1. [AI PDF Question Answering Assistant](https://github.com/Imamjamiu/Ai-pdf-question-answering-assistant)
 
-A research-oriented project exploring the integration of structured student data and unstructured text for mental-health risk classification.
+A document question-answering application using hybrid retrieval (semantic search and TF-IDF), contextual evidence, and page-level citations to help users find answers in PDF documents.
 
-[View Repository](https://github.com/Imamjamiu/Hybrid_mental_health_prediction)
+### 2. [Hybrid Mental Health Prediction System](https://github.com/Imamjamiu/Hybrid_mental_health_prediction)
 
-**2. Cardiovascular Disease Prediction**
+A machine learning and NLP project combining structured data with transformer-based text classification to explore mental-health risk prediction.
 
-A machine-learning project exploring cardiovascular disease prediction using Random Forest and K-Nearest Neighbors, with a Streamlit-based interface.
+### 3. [Cardiovascular Disease Prediction](https://github.com/Imamjamiu/cardiovascular-Disease-Prediction)
 
-[View Repository](https://github.com/Imamjamiu/cardiovascular-Disease-Prediction)
+A research-based project investigating cardiovascular disease prediction using Random Forest and K-Nearest Neighbours, with a Streamlit application.
 
-**3. Diabetes Model Deployment**
+## 📄 Research & Publication
 
-A machine-learning deployment project focused on applying predictive modelling to diabetes-related data.
+**Prediction of Cardiovascular Disease Using Random Forest and K-Nearest Neighbours**
 
-[View Repository](https://github.com/Imamjamiu/diabetes-model-deployment)
+Research applying machine learning methods to cardiovascular disease prediction.
 
-### 📚 Research & Learning
+## 👨‍🏫 Experience & Community
 
-I am particularly interested in research and practical engineering work involving NLP, LLMs, document intelligence, and AI-powered question-answering systems.
+- Data Science Tutor, CodeSquad LLC, Ilorin
+- Certified Mentor, Darewood Students Association, University of Ilorin
+- Huawei Datacom certified
+- Peer learning, technical mentoring, and community knowledge-sharing
 
-I believe in continuous learning, collaborative problem-solving, and building solutions that are useful beyond the classroom.
+## 📊 GitHub Statistics
 
-### 🤝 Let's Connect
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imamjamiu&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imamjamiu&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages" />
+</p>
 
-I'm open to learning opportunities, research collaborations, mentorship, and meaningful projects in Artificial Intelligence and Machine Learning.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Imamjamiu&theme=tokyonight" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imamjamiu&theme=tokyo-night" alt="GitHub contribution activity graph" />
+</p>
+
+## 🤝 Connect With Me
+
+I'm open to AI/ML engineering opportunities, research collaborations, mentorship, and meaningful open-source projects.
+
+- **LinkedIn:** [Muhammad Jamiu](https://www.linkedin.com/in/imamfulani)
+- **Email:** [Imamfulani4@gmail.com](mailto:Imamfulani4@gmail.com)
+- **GitHub:** [@Imamjamiu](https://github.com/Imamjamiu)
+
+---
+
+*Learn • Build • Research • Innovate*
