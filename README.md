@@ -17,15 +17,28 @@ I enjoy learning through engineering: designing systems, experimenting with mode
 - Trustworthy, evidence-grounded, and responsible AI
 - Applied AI in healthcare, education, and finance
 
-## 🛠️ Tech Stack
+## 🧰 Languages, Technologies & Tools
 
-- **Programming:** Python
-- **Machine Learning:** Scikit-learn, XGBoost
-- **Deep Learning & NLP:** PyTorch, Hugging Face Transformers
-- **LLM Applications:** Embeddings, semantic search, hybrid retrieval, RAG
-- **Data:** Pandas, NumPy
-- **App Development:** Streamlit
-- **Tools:** Git, GitHub, Jupyter Notebook, Google Colab
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white" alt="Anaconda" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Google_Gemini-886FBF?logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=000" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=white" alt="PyPI" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub" />
+</p>
 
 ## 🚀 Featured Projects
 
@@ -59,10 +72,6 @@ Research applying machine learning methods to cardiovascular disease prediction.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imamjamiu&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imamjamiu&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Imamjamiu&theme=tokyonight" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
