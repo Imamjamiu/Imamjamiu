@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Jamiu (Imamjamiu) 👋
+# Hi, I'm Imam Fulani👋
 
 ### AI/ML Engineer | LLMs | RAG | Intelligent Systems | AI Research
 
