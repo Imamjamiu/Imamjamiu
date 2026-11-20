@@ -56,8 +56,6 @@ A research-based project investigating cardiovascular disease prediction using R
 
 ## 📄 Research & Publication
 
-## 📄 Research & Publication
-
 **[Prediction of Cardiovascular Disease Using Random Forest and K-Nearest Neighbours](https://link.springer.com/chapter/10.1007/978-3-032-28097-8_70)**
 
 Published research investigating the application of Random Forest and K-Nearest Neighbours algorithms for cardiovascular disease prediction.
