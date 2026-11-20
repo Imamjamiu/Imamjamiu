@@ -79,4 +79,4 @@ I'm open to AI/ML engineering opportunities, research collaborations, mentorship
 
 ---
 
-  *Learn • Build • Research • Innovate*
+ <p align="center">Learn • Build • Research • Innovate</p>
