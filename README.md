@@ -69,17 +69,6 @@ Published research investigating the application of Random Forest and K-Nearest 
 - Huawei Datacom certified
 - Peer learning, technical mentoring, and community knowledge-sharing
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Imamjamiu&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Imamjamiu&layout=compact&langs_count=8&theme=tokyonight" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imamjamiu&theme=tokyo-night" alt="GitHub contribution activity graph" />
-</p>
-
 ## 🤝 Connect With Me
 
 I'm open to AI/ML engineering opportunities, research collaborations, mentorship, and meaningful open-source projects.
@@ -90,4 +79,4 @@ I'm open to AI/ML engineering opportunities, research collaborations, mentorship
 
 ---
 
-*Learn • Build • Research • Innovate*
+                                                    *Learn • Build • Research • Innovate*
