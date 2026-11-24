@@ -42,7 +42,7 @@ I enjoy learning through engineering: designing systems, experimenting with mode
 
 ## 🚀 Featured Projects
 
-### 1. [AI PDF Question Answering Assistant](https://github.com/Imamjamiu/Ai-pdf-question-answering-assistant)
+### 1. [DocuMind-AI](https://github.com/Imamjamiu/DocuMind-AI)
 
 A document question-answering application using hybrid retrieval (semantic search and TF-IDF), contextual evidence, and page-level citations to help users find answers in PDF documents.
 
